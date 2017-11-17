@@ -4,6 +4,10 @@ module.exports = [
     prompt: 'Feel free to head to the booth to find an Azure expert, but here are some Azure docs to get you started. For Azure App Services, head over to this link: https://docs.microsoft.com/en-us/azure/app-service/ . For Azure Storage check out https://docs.microsoft.com/en-us/azure/storage/ . And for Azure Mobile Apps head over to https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started.'
   },
   {
+    name: 'Machine Learning',
+    prompt: 'Get started now with Azure Machine Learning for powerful cloud-based analytics, now part of Cortana Intelligence Suite. https://azure.microsoft.com/en-us/services/machine-learning-studio/'
+  },
+  {
     name: 'ChatBots',
     prompt: 'You want to know how to build a bot like me? Head to https://docs.microsoft.com/en-us/bot-framework/. You can also head to booth where various team members can help you!'
   },
